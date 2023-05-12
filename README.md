@@ -41,4 +41,3 @@ Make changes and commit them: git commit -am 'Add new feature'
 Push to the branch: git push origin new-feature
 
 Create a pull request
-
