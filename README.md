@@ -1,5 +1,5 @@
 ## Github Profile Searcher
-This app is help for students to search easily user profile of github
+This app is helpful to search easily user profile of github
 
 
 **[Live demo](https://searchgithubprofile.vercel.app/)**
