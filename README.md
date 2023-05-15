@@ -2,35 +2,35 @@
 This app is helpful to search easily user profile of github
 
 
-**[Live demo](https://searchgithubprofile.vercel.app/)**
+## [Live demo](https://searchgithubprofile.vercel.app/)
 
 
-**API used**
+## API used
 
  https://api.github.com/users
  
  
-**Technologies used**
+## Technologies used
 
 This website was built using the following technologies:
 
-HTML
+• HTML
 
-CSS
+• CSS
 
-JavaScript
+• JavaScript
 
 
-**Installation**
+## Installation
 
 To install and run the website locally, follow these steps:
 
-Clone the repository
+• Clone the repository
 
-Open the website in a browser: http://localhost:3000
+• Open the website in a browser: http://localhost:3000
 
 
-**Contributing**
+## Contributing
 
 Contributions to the website are welcome. To contribute, follow these steps:
 
