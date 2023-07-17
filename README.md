@@ -21,7 +21,7 @@ This website was built using the following technologies:
 • JavaScript
 
 
-## Installation
+#### Installation
 
 To install and run the website locally, follow these steps:
 
