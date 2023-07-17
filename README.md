@@ -1,4 +1,4 @@
-## Github Profile Searcher
+# Github Profile Searcher
 This app is helpful to search easily user profile of github
 
 
