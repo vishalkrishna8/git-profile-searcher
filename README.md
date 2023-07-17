@@ -2,7 +2,7 @@
 This app is helpful to search easily user profile of github
 
 
-## [Live demo](https://searchgithubprofile.vercel.app/)
+# [Live demo](https://searchgithubprofile.vercel.app/)
 
 
 #### API used
