@@ -10,7 +10,7 @@ This app is helpful to search easily user profile of github
  https://api.github.com/users
  
  
-## Technologies used
+#### Technologies used
 
 This website was built using the following technologies:
 
